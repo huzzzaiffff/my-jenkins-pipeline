@@ -1,3 +1,7 @@
+Medium artcle Link:
+
+https://medium.com/@parrayhuzaif03/building-my-first-automated-ci-cd-pipeline-with-jenkins-github-sonarqube-docker-and-aws-ecr-0b9e12115f99
+
 Prerequisites
 JDK 8 (or Oracle JDK8 as specified in the Jenkinsfile)
 Maven 3
